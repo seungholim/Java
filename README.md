@@ -15,3 +15,4 @@
 ### 14. pattern
 ### 15. instance
 ### 16. class_array
+### 17. 리스트
