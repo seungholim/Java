@@ -18,3 +18,4 @@
 ### 17. 리스트
 ### 18. abstract
 ### 19. interface
+### 20. linked_list
